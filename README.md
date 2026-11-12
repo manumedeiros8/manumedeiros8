@@ -75,6 +75,5 @@
 
 ### 💗 Feito com amor por Manu Medeiros! 💗
 
-✨ 🦢 🎀  ✨
 
 </div>
