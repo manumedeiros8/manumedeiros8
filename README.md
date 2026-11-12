@@ -46,15 +46,19 @@
 
 ---
 
-## 💖 ✧ Minhas estatísticas ✧
+---
+
+## 🎀 Minhas Estatísticas 🎀
 
 <div align="center">
 
-![Estatísticas da Manu](https://github-readme-stats.vercel.app/api?username=manumedeiros8&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=ff69b4&icon_color=ff1493&text_color=d63384)
+<img width="49%" src="https://streak-stats.demolab.com?user=manumedeiros8&theme=radical&background=1B1828&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=F8BBD0" />
 
-![Linguagens da Manu](https://github-readme-stats.vercel.app/api/top-langs/?username=manumedeiros8&layout=compact&hide_border=true&bg_color=fff0f6&title_color=ff69b4&text_color=d63384)
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manumedeiros8&bg_color=1b1828&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
 
 </div>
+
+---
 
 ---
 
