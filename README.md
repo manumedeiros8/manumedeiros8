@@ -3,7 +3,7 @@
 
 # 💗✨ 𝓞𝓲𝓲! 𝓔𝓾 𝓼𝓸𝓾 𝓜𝓪𝓷𝓾 𝓜𝓮𝓭𝓮𝓲𝓻𝓸𝓼! ✨💗
 
-### 🦢🌷 Bem-vindo(a) ao meu universo! 🌷🦢
+### 🦢 Bem-vindo(a) ao meu universo! 🦢
 
 💻 Estudante de Desenvolvimento de Sistemas
 
@@ -75,6 +75,6 @@
 
 ### 💗 Feito com amor por Manu Medeiros! 💗
 
-✨ 🦢 🎀 🌸 💎 ✨
+✨ 🦢 🎀  ✨
 
 </div>
