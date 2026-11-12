@@ -1,34 +1,68 @@
-✨ Olá, eu sou [MANU]! 🌷
+
+<div align="center">
+
+# 💗✨ 𝓞𝓲𝓲! 𝓔𝓾 𝓼𝓸𝓾 𝓜𝓪𝓷𝓾 𝓜𝓮𝓭𝓮𝓲𝓻𝓸𝓼! ✨💗
+
+### 🦢🌷 Bem-vindo(a) ao meu universo! 🌷🦢
+
 💻 Estudante de Desenvolvimento de Sistemas
 
-♡ Transformando ideias em código ♡
+୨୧ ─────────────── ୨୧
 
-❀ Sobre mim
-🎓 Estudante de Desenvolvimento de Sistemas
-📍 [Sua cidade, Brasil]
-💻 Atualmente estudando HTML, CSS e JavaScript
-🎨 Apaixonada por tecnologia, design e criatividade
-🌱 Sempre aprendendo e evoluindo!
-❀ Tecnologias e Ferramentas
+✨ Transformando ideias em projetos!
+💖 Aprendendo, criando e evoluindo!
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-E8A0BF?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-DDA0DD?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F4A6C1?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-D8BFD8?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-FFC0CB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-❀ Minhas Estatísticas
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=omni&title_color=DB7093&icon_color=DB7093&text_color=BA7898&bg_color=FFF5F8&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=omni&title_color=DB7093&text_color=BA7898&bg_color=FFF5F8&hide_border=true"/>
 </div>
 
+---
+
+## 🎀 ✧ Um pouquinho sobre mim ✧
+
+- 💗 Estudante de Desenvolvimento de Sistemas no SENAI
+- 🌸 Apaixonada por tecnologia e criatividade
+- 💻 Explorando o mundo da programação
+- 🦋 Sempre buscando novos conhecimentos
+- ✨ Sonhando grande e evoluindo sempre!
+
+---
+
+## 💅🏻 ✧ Minhas tecnologias ✧
+
 <div align="center">
 
-🌷 "Pequenos passos todos os dias constroem grandes sonhos." 🌷
+![HTML](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-DB7093?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F4A6C1?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_CODE-EC407A?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 💖 ✧ Minhas estatísticas ✧
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=omni&title_color=ff69b4&icon_color=ff69b4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=omni)
+
+</div>
+
+---
+
+## 💌 ✧ Me encontre por aqui ✧
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/MEU_GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+
+🌷 Obrigada por visitar meu perfil! 🌷
+
+### 💗 Feito com amor por Manu Medeiros! 💗
+
+✨ 🦢 🎀 🌸 💎 ✨
 
 </div>
