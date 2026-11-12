@@ -43,16 +43,20 @@
 
 
 
+
+---
+
 ## 💖 ✧ Minhas estatísticas ✧
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=manumedeiros8&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=FF69B4&icon_color=FF1493&text_color=D63384"/>
+![Estatísticas da Manu](https://github-readme-stats.vercel.app/api?username=manumedeiros8&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=ff69b4&icon_color=ff1493&text_color=d63384)
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manumedeiros8&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF69B4&text_color=D63384"/>
+![Linguagens da Manu](https://github-readme-stats.vercel.app/api/top-langs/?username=manumedeiros8&layout=compact&hide_border=true&bg_color=fff0f6&title_color=ff69b4&text_color=d63384)
 
 </div>
 
+---
 
 
 ---
