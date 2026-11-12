@@ -52,9 +52,9 @@
 
 <div align="center">
 
-<img width="49%" height="180em" src="https://streak-stats.demolab.com?user=manumedeiros8&theme=radical&background=1B1828&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=F8BBD0" />
+<img width="49%" src="https://streak-stats.demolab.com?user=manumedeiros8&theme=radical&background=1B1828&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=F8BBD0" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manumedeiros8&bg_color=1b1828&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manumedeiros8&theme=dracula" />
 
 </div>
 
