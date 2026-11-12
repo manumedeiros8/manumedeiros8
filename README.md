@@ -41,15 +41,17 @@
 
 ---
 
+
 ## 💖 ✧ Minhas estatísticas ✧
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=omni&title_color=ff69b4&icon_color=ff69b4)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=omni&title_color=ff69b4&icon_color=ff69b4&text_color=ffb6d9&bg_color=fff0f6&border_color=ff69b4"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=omni)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=omni&title_color=ff69b4&text_color=ffb6d9&bg_color=fff0f6&border_color=ff69b4"/>
 
 </div>
+
 
 ---
 
